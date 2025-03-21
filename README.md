@@ -1,0 +1,1 @@
+we will be creating a chatbot using natural language processing and deep learning. The chatbot will be able to converse about any topics that we specify and can use these strategies to recognize a diversity of conversation.
